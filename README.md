@@ -19,7 +19,7 @@ springboot2.2+mybatis-plus3.2+freemarker+swagger2.9.x
   
   1.配置mysql连接信息
   
-   ![Image text](http://101.132.105.134:8888/group1/M00/00/00/rBMeE17fKnGAKwQPAABZ2PX2ceA304.jpg)
+   ![Image text](https://github.com/BeAInterestingMan/rainbow-generator/blob/master/images/1.jpg)
   
   2.代码生成提供两种方式 
     
@@ -31,5 +31,13 @@ springboot2.2+mybatis-plus3.2+freemarker+swagger2.9.x
           然后访问http://localhost:8891/generator?tableName=msg_log&databaseName=rainbow&tableComment=msgLog 会自动下载
           
           其中 tableName 表示需要生成数据的表名  databaseName 表示要生成的数据库名   tableComment表示表的注释
+          
+      ![Image text](https://github.com/BeAInterestingMan/rainbow-generator/blob/master/images/2.jpg)
+      
+      ![Image text](https://github.com/BeAInterestingMan/rainbow-generator/blob/master/images/3.jpg)
+        
+      ![Image text](https://github.com/BeAInterestingMan/rainbow-generator/blob/master/images/4.jpg)
+      
+        ![Image text](https://github.com/BeAInterestingMan/rainbow-generator/blob/master/images/5.jpg)
     
     
