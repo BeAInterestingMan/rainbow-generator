@@ -1,13 +1,18 @@
 # rainbow-generator
+
 java Rest代码生成器-开箱简单配置即可使用  springboot2.x-mybatis-plus-freemarker
 
 # 前言
+
 最近公司做项目，缺少一些代码生成器生成最基本的骨架代码，网上看了好多类似的demo都没有合适的，
 所以决定集成一些优秀的思想构建一个适合自己日常开发的代码生成器。
 
-# 1 所用技术  springboot2.2+mybatis-plus3.2+freemarker+swagger2.9.x
+# 1 所用技术  
+
+springboot2.2+mybatis-plus3.2+freemarker+swagger2.9.x
   
 # 2 主要思路
+
     主要利用mysql动态查询出所属数据库和表的基本信息,包括是否是id，字段名称，字段注释，然后利用自定义freemarker模板解析下载。
     
 # 3 使用教程
