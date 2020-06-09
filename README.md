@@ -19,7 +19,7 @@ springboot2.2+mybatis-plus3.2+freemarker+swagger2.9.x
   
   1.配置mysql连接信息
   
-   ![Image text](https://github.com/BeAInterestingMan/rainbow-generator/blob/master/images/1.jpg)
+   ![Image text](https://img-blog.csdnimg.cn/20200609144342411.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQyMjQwMTQ1,size_16,color_FFFFFF,t_70)
   
   2.代码生成提供两种方式 
     
