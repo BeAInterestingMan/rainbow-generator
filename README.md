@@ -19,11 +19,12 @@ springboot2.2+mybatis-plus3.2+freemarker+swagger2.9.x
   
   1.配置mysql连接信息
   
+   ![Image text](http://101.132.105.134:8888/group1/M00/00/00/rBMeE17fKnGAKwQPAABZ2PX2ceA304.jpg)
+  
   2.代码生成提供两种方式 
     
     （1）.直接在配置文件Generator.properties配置文件中配置相关属性，大多数无需改动，然后浏览器访问接口http://localhost:8891/generator会自动下载。
     
-    ![Image text](http://101.132.105.134:8888/group1/M00/00/00/rBMeE17fKnGAKwQPAABZ2PX2ceA304.jpg)
     
     （2）.在配置文件如果为空的条件下，可以查询表t_generator_config的配置，可以利用接口实现界面化配置（比较懒，没弄），
     
