@@ -32,13 +32,13 @@ springboot2.2+mybatis-plus3.2+freemarker+swagger2.9.x
           
           其中 tableName 表示需要生成数据的表名  databaseName 表示要生成的数据库名   tableComment表示表的注释。
           
-  ![Image text](https://github.com/BeAInterestingMan/rainbow-generator/blob/master/images/2.jpg)
+  ![Image text](https://img-blog.csdnimg.cn/20200609144404797.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQyMjQwMTQ1,size_16,color_FFFFFF,t_70)
       
-  ![Image text](https://github.com/BeAInterestingMan/rainbow-generator/blob/master/images/3.jpg)
+  ![Image text](https://img-blog.csdnimg.cn/20200609144429341.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQyMjQwMTQ1,size_16,color_FFFFFF,t_70)
         
-   ![Image text](https://github.com/BeAInterestingMan/rainbow-generator/blob/master/images/4.jpg)
+   ![Image text](https://img-blog.csdnimg.cn/2020060914444140.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQyMjQwMTQ1,size_16,color_FFFFFF,t_70)
       
-   ![Image text](https://github.com/BeAInterestingMan/rainbow-generator/blob/master/images/5.jpg)        
+   ![Image text](https://img-blog.csdnimg.cn/20200609144458381.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQyMjQwMTQ1,size_16,color_FFFFFF,t_70)        
           
 
     
