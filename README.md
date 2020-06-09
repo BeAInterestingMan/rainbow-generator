@@ -30,14 +30,16 @@ springboot2.2+mybatis-plus3.2+freemarker+swagger2.9.x
     
           然后访问http://localhost:8891/generator?tableName=msg_log&databaseName=rainbow&tableComment=msgLog 会自动下载
           
-          其中 tableName 表示需要生成数据的表名  databaseName 表示要生成的数据库名   tableComment表示表的注释
+          其中 tableName 表示需要生成数据的表名  databaseName 表示要生成的数据库名   tableComment表示表的注释。
           
-      ![Image text](https://github.com/BeAInterestingMan/rainbow-generator/blob/master/images/2.jpg)
+  ![Image text](https://github.com/BeAInterestingMan/rainbow-generator/blob/master/images/2.jpg)
       
-      ![Image text](https://github.com/BeAInterestingMan/rainbow-generator/blob/master/images/3.jpg)
+  ![Image text](https://github.com/BeAInterestingMan/rainbow-generator/blob/master/images/3.jpg)
         
-      ![Image text](https://github.com/BeAInterestingMan/rainbow-generator/blob/master/images/4.jpg)
+   ![Image text](https://github.com/BeAInterestingMan/rainbow-generator/blob/master/images/4.jpg)
       
-        ![Image text](https://github.com/BeAInterestingMan/rainbow-generator/blob/master/images/5.jpg)
+   ![Image text](https://github.com/BeAInterestingMan/rainbow-generator/blob/master/images/5.jpg)        
+          
+
     
     
