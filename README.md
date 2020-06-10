@@ -19,7 +19,7 @@ springboot2.2+mybatis-plus3.2+freemarker+swagger2.9.x
   
   1.配置mysql连接信息
   
-   ![Image text](http://101.132.105.134:8888/group1/M00/00/00/rBMeE17fKnGAKwQPAABZ2PX2ceA304.jpg)
+   ![Image text](https://img-blog.csdnimg.cn/20200609144342411.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQyMjQwMTQ1,size_16,color_FFFFFF,t_70)
   
   2.代码生成提供两种方式 
     
@@ -30,6 +30,16 @@ springboot2.2+mybatis-plus3.2+freemarker+swagger2.9.x
     
           然后访问http://localhost:8891/generator?tableName=msg_log&databaseName=rainbow&tableComment=msgLog 会自动下载
           
-          其中 tableName 表示需要生成数据的表名  databaseName 表示要生成的数据库名   tableComment表示表的注释
+          其中 tableName 表示需要生成数据的表名  databaseName 表示要生成的数据库名   tableComment表示表的注释。
+          
+  ![Image text](https://img-blog.csdnimg.cn/20200609144404797.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQyMjQwMTQ1,size_16,color_FFFFFF,t_70)
+      
+  ![Image text](https://img-blog.csdnimg.cn/20200609144429341.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQyMjQwMTQ1,size_16,color_FFFFFF,t_70)
+        
+   ![Image text](https://img-blog.csdnimg.cn/2020060914444140.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQyMjQwMTQ1,size_16,color_FFFFFF,t_70)
+      
+   ![Image text](https://img-blog.csdnimg.cn/20200609144458381.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQyMjQwMTQ1,size_16,color_FFFFFF,t_70)        
+          
+
     
     
