@@ -1,6 +1,5 @@
 package ${basePackage}.${controllerPackage};
 
-import ${basePackage}.${entityPackage}.${className};
 import ${basePackage}.${servicePackage}.${className}Service;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;

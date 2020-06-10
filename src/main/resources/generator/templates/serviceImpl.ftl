@@ -1,6 +1,5 @@
 package ${basePackage}.${serviceImplPackage};
 
-import ${basePackage}.${entityPackage}.${className};
 import ${basePackage}.${mapperPackage}.${className}Mapper;
 import ${basePackage}.${servicePackage}.${className}Service;
 import org.springframework.stereotype.Service;
