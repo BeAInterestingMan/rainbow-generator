@@ -6,9 +6,9 @@
         <#if columns??>
         <#list columns as column>
          <#if column.isKey = true>
-              <id property="${column.field}" column="${column.name}"/>
+              <id property="${column.field?uncap_first}" column="${column.name}"/>
          <#else>
-             <result property="${column.field}" column="${column.name}"/>
+             <result property="${column.field?uncap_first}" column="${column.name}"/>
          </#if>
         </#list>
         </#if>
