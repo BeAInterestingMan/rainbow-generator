@@ -1,15 +1,15 @@
 server:
-  port: 8891
+  port: 8999
 
 spring:
   application:
     name: rainbow-generator
 
   datasource:
-    username:
-    password:
+    username: root
+    password: 123456
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://ip:3306/rainbow?useUnicode=true&characterEncoding=UTF-8&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=GMT%2b8
+    url: jdbc:mysql://101.132.105.134:3306/rainbow?useUnicode=true&characterEncoding=UTF-8&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=GMT%2b8
 
 
 mybatis-plus:
